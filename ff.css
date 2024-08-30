@@ -1,0 +1,168 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.div {
+    background-color: white;
+    padding: 0px;
+}
+.div1{
+    height:35vh;
+    width:100vw;
+    background-color:#1f2937;
+}
+.img1{
+    margin-left: 20vw;
+    border-radius: 30px;
+    padding:20px;
+}
+.nav1{
+    position: absolute;
+    padding-top: 20px;
+    right:0;
+    margin-right: 300px;
+    text-decoration: none;
+    font-size: large;
+    margin-top: 0%;
+    top: 0;
+}
+a{
+    color:#F9FAF8;
+    font-size: 24PX;
+}
+.h1{
+    margin-left: 20vw;
+    color:#f9faf8;
+    margin-top: -1vh;
+    font-weight: 900;
+}
+.p1{
+    margin-left:20vw ;
+    margin-top: 2px;
+    color:#E5E7EB;
+    font-size: 18PX;
+}
+.button{
+    margin-left:20vw ;
+    color:white;
+    background-color:#3882F6;
+    border-radius: 10px;
+    width: 80px;
+    height:20px;
+    border:3px solid blue;
+    margin-top:5px;
+
+    
+}
+.img2{
+
+    margin-left:70vw;
+    padding: 0px;
+    width: 400px;
+    height:200px;
+    right: 10vw;
+    margin-top: -200px;
+    position:absolute;
+    border-radius: 10px;
+
+}
+.div2{
+    height:30vh;
+    width:100vw;
+    background-color:antiquewhite;
+    margin-top: 0px;
+}
+.h33{
+    text-align: center;
+    font-size: 36PX;
+    padding-top: 20px;
+    color: #1F2937;
+    font-weight: 900;
+
+
+
+}
+.div3{
+    display:block;
+}
+.new{
+    display: flex;
+    flex:1;
+    margin-left: 30vw;
+    margin-top: 20px;
+    align-items: center;
+    gap:40px;
+    border-radius: 100%;
+}
+img{
+    border-radius: 10%;
+}
+.div3{
+    height:30vh;
+    width:100vw;
+    background-color:E5E7EB;
+}
+.p2{
+
+    color: #1F2937;
+    font-weight: 100;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 36PX;
+}
+.p3{
+    margin-top: 0vh;
+    margin-left: 120vh;
+    font-size: 20px;
+}
+.div4{
+    background-color: antiquewhite;
+    height:30vh;
+    width:100vw;
+}
+.new1{
+    background-color:#3882F6;
+    width:70vw;
+    height:20%;
+    position:absolute;
+    margin-left:12vw;
+    margin-top: 6vh;
+    border-radius: 10px;
+}
+.h3{
+    position: absolute;
+    margin-left: 10vw;
+    margin-top: 5vh;
+    color:antiquewhite;
+
+}
+.p4{
+    position: absolute;
+    margin-left:10vw ;
+    color:antiquewhite;
+    margin-top:8vh ;
+
+}
+.button1{
+color: antiquewhite;
+position: absolute;
+margin-left: 50vw;
+width: 200px;
+height: 50px;
+background-color:#3882F6;
+margin-top: 5vh;
+border: 2px solid white;
+border-radius: 10px;
+}
+.div5{
+    height:5vh;
+    width: 100vw;
+    background-color:#1f2937;
+} 
+
+.news{
+    position: absolute;
+    color: whitesmoke;
+    margin-left: 40vw;
+    margin-top: 2vh;
+}
